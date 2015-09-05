@@ -1,0 +1,19 @@
+{
+  "name": "pingr",
+  "version": "0.0.0",
+  "description": "The client side interface for the Pingr API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arjabbar/pingr.git"
+  },
+  "author": "Abdur Jabbar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arjabbar/pingr/issues"
+  },
+  "homepage": "https://github.com/arjabbar/pingr#readme"
+}
