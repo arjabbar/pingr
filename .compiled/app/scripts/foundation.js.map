@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/scripts/foundation.js"],"names":[],"mappings":";;AAAA,CAAA,YAAI;AACH,EAAC,CAAC,QAAQ,CAAC,CAAC,UAAU,EAAE,CAAC;CACzB,CAAA,EAAE,CAAA","file":"app/scripts/foundation.js","sourcesContent":["()=>{\n\t$(document).foundation();\n}()"]}

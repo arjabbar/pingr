@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/scripts/app.js"],"names":[],"mappings":";;AAAA,CAAA,YAAI;AACH,QAAO,CAAC,MAAM,CAAC,OAAO,EAAE,CAAC,IAAI,EAAE,SAAS,CAAC,CAAC,CAAC;CAC3C,CAAA,EAAE,CAAA","file":"app/scripts/app.js","sourcesContent":["()=>{\n\tangular.module('pingr', ['ng', 'ngRoute']);\n}()"]}
